@@ -240,6 +240,13 @@
     width: 40px;
   }
 } */
+
+.wrapper_JJ-hgR, .circleIconButton_g8YUxD {
+  &:is(.selected_JJ-hgR, .selected_g8YUxD):before {
+    box-shadow: none !important;
+  }
+}
+
 .wrapper_QQRrAh {
   border-radius: var(--radius-sm);
 }
