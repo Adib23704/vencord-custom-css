@@ -217,7 +217,7 @@
 /* Titlebar */
 
 /* Sidebar */
-li.containerDefault_Wx6SnQ > div:first-child:not(:only-child) {
+/* li.containerDefault_Wx6SnQ > div:first-child:not(:only-child) {
   position: unset;
   &:before {
     background: var(--text-voice-connected);
@@ -239,7 +239,7 @@ li.containerDefault_Wx6SnQ > div:first-child:not(:only-child) {
     top: -12px;
     width: 40px;
   }
-}
+} */
 .wrapper_QQRrAh {
   border-radius: var(--radius-sm);
 }
