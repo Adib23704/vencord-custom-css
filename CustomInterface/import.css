@@ -1,11 +1,25 @@
-@import url(https://davart154.github.io/Themes/Snippets/Mana%20Composer/ManaComposerSource.css);
-@import url(https://davart154.github.io/Themes/Snippets/Mana%20Friend%20List/ManaFriendListSource.css);
-@import url(https://davart154.github.io/Themes/Snippets/Mana%20Guild/ManaGuildSource.css);
-@import url(https://davart154.github.io/Themes/Snippets/Mana%20Media/ManaMediaSource.css);
-@import url(https://davart154.github.io/Themes/Snippets/Mana%20Page%20Switcher/ManaPageSwitcherSource.css);
-@import url(https://davart154.github.io/Themes/Snippets/Mana%20Panel/ManaPanelSource.css);
-@import url(https://davart154.github.io/Themes/Snippets/Mana%20Profile/ManaProfileSource.css);
-@import url(https://davart154.github.io/Themes/Snippets/Mana%20Sidebar%20Notice/ManaSidebarNoticeSource.css);
+@import url("https://davart154.github.io/Themes/Snippets/Mana%20Composer/ManaComposerSource.css");
+@import url("https://davart154.github.io/Themes/Snippets/Mana%20Friend%20List/ManaFriendListSource.css");
+@import url("https://davart154.github.io/Themes/Snippets/Mana%20Guild/ManaGuildSource.css");
+@import url("https://davart154.github.io/Themes/Snippets/Mana%20Media/ManaMediaSource.css");
+@import url("https://davart154.github.io/Themes/Snippets/Mana%20Page%20Switcher/ManaPageSwitcherSource.css");
+@import url("https://davart154.github.io/Themes/Snippets/Mana%20Panel/ManaPanelSource.css");
+@import url("https://davart154.github.io/Themes/Snippets/Mana%20Profile/ManaProfileSource.css");
+@import url("https://davart154.github.io/Themes/Snippets/Mana%20Sidebar%20Notice/ManaSidebarNoticeSource.css");
+@import url("https://Cinnab0nBak3ry.github.io/AppleFontsCSS/Apple-fonts.css");
+
+code, .codeBlockText-28BOxV, .codeLine-2C-9aH, .markup-eYLPri code.inline, .after_inlineCode-2_JXPm, .before_inlineCode-1zngJj, .inlineCode-ERyvy_ {
+  font-family: "SF Mono",mono,monospace;
+}
+
+* {
+  --font-primary: -apple-system,BlinkMacSystemFont,"SF Pro Display",sans-serif;
+  --font-display: -apple-system,BlinkMacSystemFont,"SF Pro Display",sans-serif;
+  --font-headline: -apple-system,BlinkMacSystemFont,"SF Pro Display",sans-serif;
+  text-rendering: optimizeLegibility;
+  text-transform: none !important;
+  letter-spacing: 0.015em;
+}
 
 /* Loading */
 .problems_oDjP9R {
